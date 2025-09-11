@@ -52,6 +52,13 @@
     </p>
   </div>
 
+<div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
+    <h4 style="margin: 0;">🚗 Kernel360/Rento-BE</h4>
+    <p style="margin: 5px 0 0 0;">
+      Kernel 기업 연계 프로젝트로, Spring Boot, Java, RabbitMQ를 기반으로 한 실시간 차량 관제 프로젝트입니다.<br/>
+    </p>
+  </div>
+
   <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
   <h4 style="margin: 0;">🧩 Algorithm</h4>
   <p style="margin: 5px 0 0 0;">
