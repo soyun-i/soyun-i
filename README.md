@@ -1,5 +1,9 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/soyun-i"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soyun-i&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/soyun-i"
+  width="600"
+  height="300"
+/>
 </a>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🪼 백엔드 개발자 박소윤의 GitHub 공간에 오신 것을 환영합니다 🪼 </h2>
