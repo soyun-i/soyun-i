@@ -33,9 +33,7 @@
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </div>
 <br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ GitHub Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=soyun-i&show_icons=true&theme=tokyonight&hide_title=true" alt="소윤님의 GitHub Stats" height="180" />
-<br>
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Projects 소개</h2>
  <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
     <h4 style="margin: 0;">📝 Feelink</h4>
