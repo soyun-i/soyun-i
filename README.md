@@ -7,12 +7,6 @@
 </a>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🪼 백엔드 개발자 박소윤의 GitHub 공간에 오신 것을 환영합니다 🪼 </h2>
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    안녕하세요!<br>
-    <strong>몰입, 탐구, 성장</strong>을 키워드로, 더 나은 개발자와 더 좋은 동료가 되기 위해 매일을 설계하고 있는 백엔드 개발자 <strong>박소윤</strong>입니다. 
-</div> 
-
-<br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 현재 학습 및 활용 중인 기술 스택 </h2>
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
